@@ -41,6 +41,7 @@ Install node modules
     npm install 
 
 Run npm
+
     npm run hot
 
 Start the local development server
