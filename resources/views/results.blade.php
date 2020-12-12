@@ -19,6 +19,7 @@
                 font-family: 'Nunito';
             }
         </style>
+        <link rel="stylesheet" href="{{ mix('css/app.css') }}">
     </head>
     <body>
     <div class="container border border-gray-300 rounded m-10 grid grid-cols-2 items-center">
